@@ -1,3 +1,31 @@
+/* Variables */
+posr {
+    position: relative;
+}
+
+
+/* Main */
+body {
+    background-color: #232323;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
 p {
     font-size: 20px;
+}
+
+button {
+    background-color: #cddfff;
+    border: none;
+    border-radius: 5px;
+    color: #232323;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 10px 20px;
 }
